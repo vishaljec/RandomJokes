@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.android.randomjokes.app-mergeDebugResources-28:/layout/holder_joke.xml",
+        "source": "com.android.randomjokes.app-main-31:/layout/holder_joke.xml"
+    },
+    {
+        "merged": "com.android.randomjokes.app-mergeDebugResources-28:/layout/activity_joke.xml",
+        "source": "com.android.randomjokes.app-main-31:/layout/activity_joke.xml"
+    }
+]
